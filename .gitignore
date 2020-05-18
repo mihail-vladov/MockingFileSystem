@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FileManager/bin
+/FileManager/obj
+/.vs/MockingFileSystem/v16
+/FileManager.App/bin
+/FileManager.App/obj
+/FileManager.Tests/obj
+/FileManager.Tests/bin
+/FileManager/FileManager.csproj.user
